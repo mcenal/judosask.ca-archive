@@ -1,0 +1,16 @@
+var txt_not_drawn = "Not drawn/TIrage au sort non fait";
+var txt_finished = "Finished/Terminé";
+var txt_match_ongoing = "Match ongoing/Match en cours";
+var txt_started = "Started/Commencé";
+var txt_drawing_ready = "Drawing ready/Tirage au sort prêt";
+var txt_coach = "Coach/Entraîneur";
+var txt_firstname = "Name/Nom";
+var txt_lastname = "Surname/Nom de famille";
+var txt_weight = "Weight/Poids:";
+var txt_category = "Category/Catégorie";
+var txt_status = "Status/Statut";
+var txt_place = "Pos";
+var txt_display = "Display/Affichage";
+var txt_match_after_1 = "Match after/Match ensuite";
+var txt_match_after_2 = "matches/matchs";
+var txt_coach_display = "Coach Display/Affichage Entraîneur";
